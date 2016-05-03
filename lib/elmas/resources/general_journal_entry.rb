@@ -11,7 +11,7 @@ module Elmas
     end
 
     def other_attributes
-      [:financial_period, :financial_year, :currency, :exchange_rate, :reversal, :entry_date]
+      [:financial_period, :financial_year, :currency, :exchange_rate, :reversal]
     end
   end
 end
