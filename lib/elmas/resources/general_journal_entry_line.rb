@@ -5,9 +5,5 @@ module Elmas
     def base_path
       "generaljournalentry/GeneralJournalEntryLines"
     end
-
-    def other_attributes
-      [:date]
-    end
   end
 end
