@@ -7,7 +7,7 @@ module Elmas
     end
 
     def other_attributes
-      [:entry_date]
+      [:date]
     end
   end
 end
