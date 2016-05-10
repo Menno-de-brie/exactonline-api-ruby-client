@@ -41,6 +41,7 @@ require "elmas/resources/mailbox"
 require "elmas/resources/vat_code"
 require "elmas/resources/general_journal_entry"
 require "elmas/resources/general_journal_entry_line"
+require "elmas/resources/bank_account"
 
 module Elmas
   extend Config
