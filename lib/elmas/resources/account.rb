@@ -16,7 +16,7 @@ module Elmas
       [
         :accountant, :account_manager, :activity_sector,
         :activity_sub_sector, :address_line1, :address_line2,
-        :address_line3, :blocked, :business_type, :can_drop_ship,
+        :address_line3, :bank_accounts, :blocked, :business_type, :can_drop_ship,
         :chamber_of_commerce, :city, :code, :code_at_supplier,
         :company_size, :consolidation_scenario, :controlled_date,
         :cost_paid, :country, :credit_line_purchase, :credit_line_sales,
